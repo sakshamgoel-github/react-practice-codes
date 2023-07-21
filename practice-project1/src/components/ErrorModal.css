@@ -1,0 +1,16 @@
+
+.error-modal-div{
+    position:fixed;
+    background-color:#9CB4CC;
+    margin-top:15%;
+    margin-left:25%;
+    border-radius:10px;
+    min-width:20%;
+    text-align:center
+}
+
+.error-modal-heading{
+    background-color:#474E68;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px
+}
